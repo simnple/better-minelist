@@ -7,6 +7,8 @@
 // @match        ://*.minelist.kr/*
 // @icon         https://minelist.kr/favicon.ico
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/simnple/better-minelist/refs/heads/main/better-minelist.js
+// @downloadURL  https://raw.githubusercontent.com/simnple/better-minelist/refs/heads/main/better-minelist.js
 // ==/UserScript==
 
 (function() {
