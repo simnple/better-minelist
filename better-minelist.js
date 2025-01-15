@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Better Minelist
-// @namespace    Better MInelist
+// @namespace    Better Minelist
 // @version      2025-01-15
 // @description  마인리스트 기능 추가
 // @author       Simnple
@@ -9,6 +9,7 @@
 // @grant        none
 // @updateURL    https://raw.githubusercontent.com/simnple/better-minelist/refs/heads/main/better-minelist.js
 // @downloadURL  https://raw.githubusercontent.com/simnple/better-minelist/refs/heads/main/better-minelist.js
+// @supportURL   https://github.com/simnple/better-minelist/issues
 // ==/UserScript==
 
 (function() {
